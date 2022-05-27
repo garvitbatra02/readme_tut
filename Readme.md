@@ -51,7 +51,7 @@ Demo Video: ###############
 
 ![Screenshot](./screenshots/Capture8.PNG)
 
-* Whatsapp message recieved simulataneously after locations have been tracked
+* Whatsapp message recieved simultaneously after locations have been tracked
 
 ![Screenshot](./screenshots/capture9.jpeg)
 
