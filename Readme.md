@@ -16,9 +16,9 @@ This web app is an online portal that enables users to register their close ones
 
 ## Live Demo 
 ***
-Project Link: https://teams-videocall-webapp.herokuapp.com/
+Project Link: ############
 
-Demo Video: https://youtu.be/MywlX0E_WVs
+Demo Video: ###############
 
 ### Screenshots
 * Home Page
@@ -73,7 +73,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/Riyadevvarshney11/video-call-webapp.git
+$ git clone https://github.com/###########
 
 ```
 In Node-js server MS
